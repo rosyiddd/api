@@ -1,1 +1,2 @@
 ini adalah index.txt
+ini adalah baris kedua
